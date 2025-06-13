@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage -->
+  <url>
+    <loc>https://havenblog.github.io/best-laptops/</loc>
+    <priority>1.0</priority>
+  </url>
 
-<url>
-  <loc>https://havenblog.github.io/best-laptops/</loc>
-  <lastmod>2025-06-10T11:30:53+00:00</lastmod>
-</url>
+  <!-- HP Laptop AMD Ryzen -->
+  <url>
+    <loc>https://havenblog.github.io/best-laptops/#hp-ryzen</loc>
+    <priority>0.8</priority>
+  </url>
 
+  <!-- Lenovo IdeaPad Slim 5 -->
+  <url>
+    <loc>https://havenblog.github.io/best-laptops/#ideapad</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- HP Victus Gaming Laptop -->
+  <url>
+    <loc>https://havenblog.github.io/best-laptops/#hp-victus</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Asus Zenbook 14 OLED -->
+  <url>
+    <loc>https://havenblog.github.io/best-laptops/#zenbook</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ASUS ROG Strix SCAR 16 -->
+  <url>
+    <loc>https://havenblog.github.io/best-laptops/#rog-scar16</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Apple MacBook Air M2 -->
+  <url>
+    <loc>https://havenblog.github.io/best-laptops/#macbook-air</loc>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>
