@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://havenblog.github.io/best-laptops/sitemap.xml
